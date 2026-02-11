@@ -65,16 +65,6 @@ If I get an idea — I experiment, build, and learn from it.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ffarheen41&show_icons=true&theme=gruvbox_light" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ffarheen41&layout=compact&theme=gruvbox_light" />
-</p>
-
----
-
 ## ⚡ Fun Facts
 
 * I love learning new things in AI 🤖
