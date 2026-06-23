@@ -105,16 +105,19 @@
  
 ## 💼 Experience
  
+
+**AI Trainer & Curriculum Developer — GrepUp Academy** *(Jan 2026 – Present · Remote)*
+- Designed and delivered AI/ML training programs covering EDA, supervised learning, and Python
+- Developed **20+ assignments** aligned with industry use cases
+  
 **Data Science Intern — Rubixe** *(Jan 2026 – Present · Bangalore)*
 - Built Python ETL pipelines with Pandas & NumPy, reducing preprocessing time by **35%**
 - Evaluated LLM response quality and bias across **1000+ samples**
 - Built real-time model performance dashboards; applied A/B testing and statistical validation
-**AI Trainer & Curriculum Developer — GrepUp Academy** *(Jan 2026 – Present · Remote)*
-- Designed and delivered AI/ML training programs covering EDA, supervised learning, and Python
-- Developed **20+ assignments** aligned with industry use cases
+  
 **Software Engineer Trainee — IPCS Global** *(2025 – 2026 · Pune)*
 - Developed Python modules using OOP principles and clean coding practices
----
+
  
 ## 🎓 Education & Certifications
  
