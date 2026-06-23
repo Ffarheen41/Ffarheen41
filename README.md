@@ -1,5 +1,5 @@
 <div align="center">
-# 👩‍💻 Farheen Anjum
+### Farheen Anjum
  
 ### AI/ML Engineer · Data Science · Python & SQL
 #### B.Tech CSE (AI & ML) · Kalinga University · CGPA 8.1 · Raipur, India
