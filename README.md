@@ -1,12 +1,13 @@
 <div align="center">
-### Farheen Anjum
+  <h1>Farheen Anjum</h1>
+</div>
  
 ### AI/ML Engineer · Data Science · Python & SQL
 #### B.Tech CSE (AI & ML) · Kalinga University · CGPA 8.1 · Raipur, India
  
-![Open to Work](https://img.shields.io/badge/✅_Open_to-Internships_%26_Fresher_Roles-2d6a4f?style=for-the-badge)
+![Open to Work]
  
-*Final-year student with hands-on experience across deep learning, ETL pipelines, LLM evaluation, and BI dashboards.*
+*Hands-on experience across deep learning, ETL pipelines, LLM evaluation, and BI dashboards.*
 *I build things that work — and measure them to prove it.*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farheen_Anjum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farheen-anjum-582y)
