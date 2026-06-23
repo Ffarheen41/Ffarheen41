@@ -3,10 +3,9 @@
 </div>
  
 ### AI/ML Engineer · Data Science · Python & SQL
+### Working as AI Trainer at Grepup Academy
 #### B.Tech CSE (AI & ML) · Kalinga University · CGPA 8.1 · Raipur, India
- 
-![Open to Work]
- 
+  
 *Hands-on experience across deep learning, ETL pipelines, LLM evaluation, and BI dashboards.*
 *I build things that work — and measure them to prove it.*
  
