@@ -15,7 +15,7 @@
 </div>
 ---
  
-## 📊 By the Numbers
+##  By the Numbers
  
 <div align="center">
 | 🧠 MRI Classification | ⚡ ETL Time Reduction | 📱 Mobile Price Accuracy | ✈️ Flight Price R² |
@@ -35,7 +35,7 @@
  
 ---
  
-## 🛠️ Tech Stack
+##  Tech Stack
  
 **Languages**
  
@@ -68,23 +68,23 @@
  
 ---
  
-## 🚀 Projects
+##  Projects
  
-### 🧠 Brain Tumor Detection via Deep Learning
+###  Brain Tumor Detection via Deep Learning
 `CNN` `Transfer Learning` `TensorFlow` `Keras` `OpenCV`
 - **92% classification accuracy** on MRI datasets
 - Applied data augmentation and transfer learning for performance gains
 - Results published as a **peer-reviewed research paper**
 ---
  
-### 🦠 COVID-19 Forecasting & Government Health Advisory System
+###  COVID-19 Forecasting & Government Health Advisory System
 `ARIMA` `Random Forest` `Gradient Boosting` `SVR` `Time Series`
 - End-to-end pandemic forecasting pipeline using JHU time-series data
 - Engineered lag variables and rolling averages as temporal features
 - Generated actionable government health advisory recommendations
 ---
  
-### ✈️ Flight Price Prediction
+###  Flight Price Prediction
 `Decision Tree` `GridSearchCV` `Feature Engineering` `Scikit-learn`
 - Achieved **R² score of 0.82** using Decision Tree Regressor
 - Engineered 10+ datetime-based predictive features
@@ -97,13 +97,13 @@
 - Benchmarked and compared 3 classification models
 ---
  
-### 📊 Customer Behavior Analysis Dashboard
+###  Customer Behavior Analysis Dashboard
 `Power BI` `DAX` `Excel` `Business Intelligence`
 - Built executive dashboards tracking retention, growth, and purchase frequency
 - Identified high-value customer segments through BI analytics
 ---
  
-## 💼 Experience
+##  Experience
  
 
 **AI Trainer & Curriculum Developer — GrepUp Academy** *(Jan 2026 – Present · Remote)*
@@ -119,13 +119,13 @@
 - Developed Python modules using OOP principles and clean coding practices
 
  
-## 🎓 Education & Certifications
+##  Education & Certifications
  
-🎓 **B.Tech CSE (AI & ML)** — Kalinga University *(2022–2026)* · CGPA: **8.1 / 10**
+ **B.Tech CSE (AI & ML)** — Kalinga University *(2022–2026)* · CGPA: **8.1 / 10**
  
-📜 AI Engineer Certification — DataMites
+ AI Engineer Certification — DataMites
  
-📜 Advanced Data Science with Python — DataMites
+ Advanced Data Science with Python — DataMites
  
 ---
  
